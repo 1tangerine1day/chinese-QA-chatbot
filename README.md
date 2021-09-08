@@ -39,7 +39,7 @@ cahtbot.load_model("best.pt")
 
 ## predict
 
-test case 1
+test case 1 (恩...健康 = 股價)
 ```
 cahtbot.predict("加權指數狂跌小台卻狂拉")
 ```
@@ -55,7 +55,7 @@ cahtbot.predict("校園霸凌嚴重 立委兒子生殖器被踹到流血")
 '，這種人真的很可憐，不要出來丟人現眼'
 ```
 
-test case 3
+test case 3 (竟然有接到!)
 ```
 cahtbot.predict("cosplay機師有什麼搞頭嗎？")
 ```
@@ -63,7 +63,7 @@ cahtbot.predict("cosplay機師有什麼搞頭嗎？")
 '我想看看'
 ```
 
-test case 4
+test case 4 (某種雙關?)
 ```
 cahtbot.predict("工程師月薪多少")
 ```
