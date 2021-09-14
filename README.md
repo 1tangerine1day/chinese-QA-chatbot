@@ -1,5 +1,5 @@
-# bert2bert_QA_chatbot
-a simple chinese QA chatbot implement with pytorch and transformers <br>
+# Trouble Netizen
+A simple chinese QA chatbot implement with pytorch and transformer train by PTT data <br>
 簡易 ptt gossiping QA chatbot 使用 pytorch framework 和 transformers
 
 Tutorial: <br>
